@@ -11,7 +11,9 @@ It is my hope that my original thoughts and ideas will be treated as open source
 If, as I hope, I have grabbed your attention sufficiently - follows is the beginnings of my fleshing out the principles of a new Party. Please feel free to contribute.
 
 In particular, my dissatisfaction with the current UK parties brings me to consider what I would really want to vote for. Not tactically, to avoid the “bad guys” but with passion. Something that I could really get behind. Here’s what would be important for my ideal political party.
-Transparency
+
+## Transparency
+
 There is really very little excuse for lacking transparency in the modern age. We have the tools to store and disseminate information cheaply and efficiently. We can communicate, and revise, and collaborate like no time before us.
 
 It is quite possible to involve a vast number of people in the development of campaigns and policy - or for that matter law.
