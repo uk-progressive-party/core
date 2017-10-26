@@ -46,6 +46,6 @@ Power, generally, should be limited. The liberty of individuals should be protec
 
 As such on the subject of influence - my ideal political party would:
 
-Sacrifice its own power for the benefit of the people
-Either not accept, or otherwise remove the influence of large donations
-Mitigate the influence of lobbying by avoiding opportunities to create influence, and by being fully transparent in the case of unavoidable meetings, collaboration, and communication
+* Sacrifice its own power for the benefit of the people
+* Either not accept, or otherwise remove the influence of large donations
+* Mitigate the influence of lobbying by avoiding opportunities to create influence, and by being fully transparent in the case of unavoidable meetings, collaboration, and communication
