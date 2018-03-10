@@ -25,6 +25,8 @@ It cannot be spent on:
 * Campaigning - other than updating the membership on the progress or status of campaigning via a newsletter etc
 * Party advertising, marketing, or soliciting new members - other than soliciting current members to promote the party via a newsletter etc
 
+The Trust will also maintain a number of [Funds](funds.md) which are allocated to Party activity.
+
 ## Campaign Party
 
 The Campaign Party is the organisation that we would regularly recognise as the a political party, and would be the organisation that is registered as such.
