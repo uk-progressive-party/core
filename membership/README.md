@@ -6,5 +6,5 @@ Balancing the need to create resources to use in its representations, and the ne
 
 To that end, membership will be structured as follows.
 
-* [Individual Membership](individual-membership)
-* [Organisational Membership](organisational-membership)
+* [Individual Membership](individual-membership.md)
+* [Organisational Membership](organisational-membership.md)

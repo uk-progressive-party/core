@@ -14,24 +14,24 @@ Only 70% of the total remaining fund will be offered at any funding round. No ca
 
 Campaigns can provide a minimum and a maximum funding threshold. Those campaigns who achieve a proportion allocation of any funding round, but have not reached their minimum threshold do not receive funding. Those monies above the maximum threshold are kept in the general campaign fund for later reallocation.
 
-Excess funds from any general campaign (those monies outside of thresholds or from ceased campaigns), or from a newly ceased special campaign fund, or monies generally not allocated - are placed in the General Fund.
+Excess funds from any General Campaign (those monies outside of thresholds or from ceased campaigns), or from a newly ceased Special Campaign Fund, or monies generally not allocated - are placed in the General Fund.
 
 ## Special Campaign Funds
 
-From time to time the party may seek to fund and undergo campaigns that achieve a specific ends.
+From time to time the Party may seek to fund and undergo campaigns that achieve a specific ends.
 
-For example, the party wishes to achieve or contribute to the achievement of votes for people aged 16. A special fund is created, whereby this agenda is funded; creating a campaign or various campaigns over time - that donations can be directly applied to.
+For example, the Party wishes to achieve or contribute to the achievement of votes for people aged 16. A special fund is created, whereby this agenda is funded; creating a campaign or various campaigns over time - that donations can be directly applied to.
 
-This special fund can then only be used for such campaigns or activities stated in the fund’s objectives. Monies from such funds can be used to run national campaigns or as a ring fence to later application at a local level.
+This special fund can then only be used for such campaigns or activities stated in the Fund’s Objectives. Monies from such Funds can be used to run National Campaigns, or such a fund can accept applications at a local level for ring fenced funding.
 
 If the fund is closed, it is either:
 
-* Given to the general fund
-* Donated to another organisation who is reasonably expected to achieve or work towards the objective set out by the fund
+* Given to the General Fund
+* Donated to another organisation who is reasonably expected to achieve or work towards the objective set out by the Fund
 
 ## Local Campaigning
 
-Grass roots campaigns are an important part of the regular work done by any political party of merit. Beyond large national campaigns that are funded by the General Fund - there are local issues that require funding.
+Grass roots campaigns are an important part of the regular work done by any political party of merit. Beyond large National Campaigns that are funded by the General Fund - there are local issues that require funding.
 
 Generally speaking, the funds already available for running a local group when combined with the time and effort of those local members (and visiting members) - should offer sufficient grass roots resource to run a local campaign.
 
