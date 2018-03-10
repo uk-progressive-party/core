@@ -31,7 +31,7 @@ The Trust will also maintain a number of [Funds](funds.md) which are allocated t
 
 The Campaign Party is the organisation that we would regularly recognise as the a political party, and would be the organisation that is registered as such.
 
-It will run campaigns on behalf of and in conjunction with its members.
+It will run campaigns on behalf of and in collaboration with its members.
 
 As well as being supported by the Membership Maintenance Grant - it will receive funding to run its campaigns. After an amount of available funds is provided by The Trust, it will be able to claim for the expense of running each of the campaign.
 
