@@ -37,6 +37,6 @@ As well as being supported by the Membership Maintenance Grant - it will receive
 
 Campaign Funds will be either given in advance of spending, repaid to cover expenditure already created, or payments will be made on the behalf of the campaign - depending on how the trust determines payments should be made.
 
-Advance payments will be offered for work that can only commence from suppliers that need advance payments, as standard The Campaign Party should utilise its own cash-flow in order to make payments. Those payments that are made on behalf of multiple campaign - such as online adversing, or additional web hosting, will be made by The Trust directly and the proportion of that expenditure is then removed from the available campaigns funds.
+Advance payments will be offered for work that can only commence from suppliers that need advance payments, as standard The Campaign Party should utilise its own cash-flow in order to make payments. Those payments that are made on behalf of multiple campaign - such as online adversing, or additional web hosting, will be made by The Trust directly and the value of that expenditure is then removed from the campaign's funds.
 
 The Campaign Party would perform much of the administration required to make this a reality - until such time that The Trust is able to sustain its own administration. Until such time, the Campaign Party will collate all those funding requirements for each campaign and submit them appropriately.
