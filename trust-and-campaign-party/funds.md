@@ -44,3 +44,13 @@ In general, Local Groups have full access to their own monies - but can donate b
 Setting up a new Local Group representing the party can take a lot of work and effort - as well as require some resources to achieve in a way that isn't frustratingly exhausting.
 
 Where this fund is able, new Local Groups are provided with additional resources to help them build a stable foundation.
+
+# Party Funds
+
+## Core Fund
+
+Each paid member contributes to a Core Fund which is used by the Campaign Party as it's primary running costs. Only the Campaign Party can apply for these funds, and is able to apply for up to £5.00 per member per year.
+
+## Membership Subsidy Fund
+
+Each paid member who contributes to the Core Fund also contributes £0.50 to a Subsidy Fund that is used to pay for those members who cannot afford a membership. This Fund is an overflow fund which provides the Core Fund Contribution for each member with a valid application.
