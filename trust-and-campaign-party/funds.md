@@ -1,4 +1,4 @@
-# Funds
+# Campaign Funds
 
 The Trust will maintain a number of distinct funds that are intended to provide resource for specific campaigns - either national, or local.
 
